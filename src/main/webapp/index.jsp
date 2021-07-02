@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello World 2!</title>
+<title>Hello All !</title>
 </head>
 <body>
 	<h1>Hello World java!</h1>
